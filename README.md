@@ -1,4 +1,4 @@
 # project-euler
-Working through project-euler tasks.
+Working through the tasks on http://projecteuler.net/.
 
 Also using to aid python learning.

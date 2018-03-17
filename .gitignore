@@ -7,4 +7,9 @@ __pycache__/
 venv/
 ENV/
 
+bin/
+include/
+lib/
+lib64
+
 pyvenv.cfg
